@@ -8,5 +8,5 @@ https://dainyleen.github.io/quiz
 ### Tech Talk
 1. Create variables using let and const
 2. Create else-if conditional statements
-3. Show results using: methods such as alert(), prompt() and console.log()
+3. Show results using methods such as: alert(), prompt() and console.log()
 
